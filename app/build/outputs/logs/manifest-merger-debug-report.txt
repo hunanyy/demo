@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb77b813ef7e5f5ecd4f96ea07e1910a\appcompat-v7-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\055dd309b90e47c92efa962f53e3caf0\support-v4-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d2ee67b999b8b6dc83ee79b9888f44ca\animated-vector-drawable-24.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\df443c0252b30346039767f394f3d019\support-vector-drawable-24.2.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ecb6f6696c5317e112272c448c9ebc72\support-fragment-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4b35e62ba20ce3f9a519797d37fb545c\support-media-compat-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\732e656851692125b170a24275c54eec\support-core-utils-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b846f0b54765ca76aa9eb1ebacdfb710\support-core-ui-24.2.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6600df2a200dbc16ef513323c3fcde32\support-compat-24.2.1\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml
+instrumentation
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:7:5-9:57
+	android:targetPackage
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:9:9-54
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:8:9-62
+uses-sdk
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:11:5-47
+INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:11:5-47
+INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:11:5-47
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb77b813ef7e5f5ecd4f96ea07e1910a\appcompat-v7-24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb77b813ef7e5f5ecd4f96ea07e1910a\appcompat-v7-24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\055dd309b90e47c92efa962f53e3caf0\support-v4-24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\055dd309b90e47c92efa962f53e3caf0\support-v4-24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d2ee67b999b8b6dc83ee79b9888f44ca\animated-vector-drawable-24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d2ee67b999b8b6dc83ee79b9888f44ca\animated-vector-drawable-24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\df443c0252b30346039767f394f3d019\support-vector-drawable-24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\df443c0252b30346039767f394f3d019\support-vector-drawable-24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ecb6f6696c5317e112272c448c9ebc72\support-fragment-24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ecb6f6696c5317e112272c448c9ebc72\support-fragment-24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4b35e62ba20ce3f9a519797d37fb545c\support-media-compat-24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4b35e62ba20ce3f9a519797d37fb545c\support-media-compat-24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\732e656851692125b170a24275c54eec\support-core-utils-24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\732e656851692125b170a24275c54eec\support-core-utils-24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b846f0b54765ca76aa9eb1ebacdfb710\support-core-ui-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b846f0b54765ca76aa9eb1ebacdfb710\support-core-ui-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6600df2a200dbc16ef513323c3fcde32\support-compat-24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6600df2a200dbc16ef513323c3fcde32\support-compat-24.2.1\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:11:5-47
+INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:11:5-47
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb77b813ef7e5f5ecd4f96ea07e1910a\appcompat-v7-24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:11:15-44
+		INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:11:5-47
+		INJECTED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:16:5-83
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:16:22-81
+application
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:18:5-51:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb77b813ef7e5f5ecd4f96ea07e1910a\appcompat-v7-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\bb77b813ef7e5f5ecd4f96ea07e1910a\appcompat-v7-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\055dd309b90e47c92efa962f53e3caf0\support-v4-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\055dd309b90e47c92efa962f53e3caf0\support-v4-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d2ee67b999b8b6dc83ee79b9888f44ca\animated-vector-drawable-24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d2ee67b999b8b6dc83ee79b9888f44ca\animated-vector-drawable-24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\df443c0252b30346039767f394f3d019\support-vector-drawable-24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\df443c0252b30346039767f394f3d019\support-vector-drawable-24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ecb6f6696c5317e112272c448c9ebc72\support-fragment-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\ecb6f6696c5317e112272c448c9ebc72\support-fragment-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4b35e62ba20ce3f9a519797d37fb545c\support-media-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\4b35e62ba20ce3f9a519797d37fb545c\support-media-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\732e656851692125b170a24275c54eec\support-core-utils-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\732e656851692125b170a24275c54eec\support-core-utils-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b846f0b54765ca76aa9eb1ebacdfb710\support-core-ui-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\b846f0b54765ca76aa9eb1ebacdfb710\support-core-ui-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6600df2a200dbc16ef513323c3fcde32\support-compat-24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\6600df2a200dbc16ef513323c3fcde32\support-compat-24.2.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:20:9-38
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:22:9-40
+uses-library#android.test.runner
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:23:9-60
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:23:23-57
+activity#com.example.wifi_info.MainActivity
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:26:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.example.wifi_info.PositionActivity
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:34:9-37:20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:35:13-45
+activity#com.example.wifi_info.TrainingActivity
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:39:13-45
+activity#com.example.wifi_info.KmeansActivity
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:43:9-46:20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:45:13-45
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:44:13-43
+activity#com.example.wifi_info.ShowDatas
+ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:47:9-50:20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:49:13-45
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\wifi_app\app\src\main\AndroidManifest.xml:48:13-38
